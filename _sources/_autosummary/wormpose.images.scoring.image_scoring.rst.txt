@@ -1,0 +1,5 @@
+wormpose.images.scoring.image_scoring
+=====================================
+
+.. automodule:: wormpose.images.scoring.image_scoring
+    :members:

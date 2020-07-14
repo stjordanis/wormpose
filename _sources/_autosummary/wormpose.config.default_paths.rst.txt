@@ -1,0 +1,5 @@
+wormpose.config.default_paths
+=============================
+
+.. automodule:: wormpose.config.default_paths
+    :members:

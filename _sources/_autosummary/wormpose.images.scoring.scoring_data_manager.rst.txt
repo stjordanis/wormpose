@@ -1,0 +1,5 @@
+wormpose.images.scoring.scoring_data_manager
+============================================
+
+.. automodule:: wormpose.images.scoring.scoring_data_manager
+    :members:

@@ -1,0 +1,5 @@
+wormpose.commands.evaluate_model
+================================
+
+.. automodule:: wormpose.commands.evaluate_model
+    :members:

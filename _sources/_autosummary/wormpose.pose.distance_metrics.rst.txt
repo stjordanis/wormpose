@@ -1,0 +1,5 @@
+wormpose.pose.distance_metrics
+==============================
+
+.. automodule:: wormpose.pose.distance_metrics
+    :members:

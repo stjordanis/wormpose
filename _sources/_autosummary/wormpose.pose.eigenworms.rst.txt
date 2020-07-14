@@ -1,0 +1,5 @@
+wormpose.pose.eigenworms
+========================
+
+.. automodule:: wormpose.pose.eigenworms
+    :members:

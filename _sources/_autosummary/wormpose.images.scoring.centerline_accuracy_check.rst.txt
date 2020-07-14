@@ -1,0 +1,5 @@
+wormpose.images.scoring.centerline_accuracy_check
+=================================================
+
+.. automodule:: wormpose.images.scoring.centerline_accuracy_check
+    :members:
